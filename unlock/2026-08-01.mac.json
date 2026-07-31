@@ -1,14 +1,14 @@
 {
   "date": "2026-08-01",
   "source": "mac",
-  "updated_at": "2026-08-01T00:00:15+09:00",
+  "updated_at": "2026-08-01T01:17:18+09:00",
   "relock_hours": [
     0,
     19
   ],
   "conditions": {
     "finalize": {
-      "met_at": "2026-07-31T18:39:09+09:00"
+      "met_at": "2026-08-01T01:14:49+09:00"
     },
     "timebox_plan": {
       "met_at": null,
