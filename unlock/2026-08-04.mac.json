@@ -1,0 +1,22 @@
+{
+  "date": "2026-08-04",
+  "source": "mac",
+  "updated_at": "2026-08-04T02:22:09+09:00",
+  "relock_hours": [
+    0,
+    19
+  ],
+  "conditions": {
+    "finalize": {
+      "met_at": null
+    },
+    "timebox_plan": {
+      "met_at": null,
+      "count": 0,
+      "required": 2
+    },
+    "growth_weekly": {
+      "met_at": "2026-07-29T14:11:42+09:00"
+    }
+  }
+}
