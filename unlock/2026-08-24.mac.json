@@ -1,7 +1,7 @@
 {
   "date": "2026-08-24",
   "source": "mac",
-  "updated_at": "2026-08-24T10:58:12+09:00",
+  "updated_at": "2026-08-24T11:45:47+09:00",
   "relock_hours": [
     0,
     19
@@ -12,7 +12,7 @@
     },
     "timebox_plan": {
       "met_at": "2026-08-24T10:58:12+09:00",
-      "count": 2,
+      "count": 3,
       "required": 2
     },
     "growth_weekly": {
