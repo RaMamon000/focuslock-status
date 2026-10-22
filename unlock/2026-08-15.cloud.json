@@ -1,8 +1,0 @@
-{
-  "date": "2026-08-15",
-  "source": "cloud",
-  "updated_at": "2026-08-15T14:35:00+09:00",
-  "conditions": {
-    "timebox_plan": { "met_at": "2026-08-15T14:35:00+09:00", "count": 2, "required": 2 }
-  }
-}
